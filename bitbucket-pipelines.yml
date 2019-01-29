@@ -1,0 +1,20 @@
+image: mesosphere/aws-cli
+
+#Only deploy for test and master (not development) to conserve bandwidth.
+
+pipelines:
+  branches:
+    master:
+      - step:
+          deployment: production
+          script:
+            - aws s3 sync ./public s3://docs.geneleaf.com --acl public-read
+    # test:
+    #   - step:
+    #       deployment: test
+    #       script:
+    #         - aws s3 sync ./public s3://tst.sequencecentral.com --acl public-read
+ #   develop:
+ #     - step:
+ #         script:
+ #           - aws s3 sync ./public s3://sequencecentral.dev --acl public-read
