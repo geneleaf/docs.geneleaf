@@ -8,7 +8,7 @@ pipelines:
       - step:
           deployment: production
           script:
-            - aws s3 sync ./public s3://docs.geneleaf.com --acl public-read
+            - aws s3 sync ./public/html s3://docs.geneleaf.com --acl public-read
     # test:
     #   - step:
     #       deployment: test
