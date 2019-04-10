@@ -1,15 +1,24 @@
 .. GeneLeaf documentation master file, created by
-   sphinx-quickstart on Tue Jan 29 11:50:16 2019.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
-Welcome to GeneLeaf's documentation!
+
+GeneLeaf
 ====================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Contents:
+    :glob:
+
+    topics/*
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Release Notes:
+    :glob:
+
+    Release_Notes/*
 
 
 Indices and tables
@@ -18,3 +27,6 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+* :doc:`Glossary <Glossary>` 
+* :doc:`License <License>` 
+

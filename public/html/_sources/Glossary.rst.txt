@@ -1,0 +1,736 @@
+.. sectionauthor:: Stephen Ayers<steve@sequencecentral.com>
+
+###############################################################################
+Glossary
+###############################################################################
+
+.. glossary::
+    :sorted:
+
+    21 CFR Part 11
+        Title 21 CFR Part 11 is the part of Title 21 of the Code of Federal Regulations that establishes the United States Food and Drug Administration (FDA) regulations on electronic records and electronic signatures (ERES). Part 11, defines the criteria under which electronic records and electronic signatures are considered trustworthy, reliable, and equivalent to paper records.
+
+    Accreditation
+        Act by which an authoritative body grants a credit or recognition to an institutional body or person competent to carry out specific tasks maintaining guidelines for quality standards.
+
+    ACMG
+        The American College of Medical Genetics and Genomics (ACMG) is an organization composed of biochemical, clinical, cytogenetic, medical and molecular geneticists, genetic counselors and other health care professionals committed to the practice of medical genetics.
+
+    ACMG Secondary Findings
+        A set of 56 genes in which substantial clinical evidence indicates that pathogenic variants result in a high likelihood of severe disease that is preventable if identified before symptoms occur.
+
+        - **ACMG sencondary findings opt-in** indicates that a patient has expressed a preference to be informed of findings of pathogenic variants.
+        - The related ACMG policy statement can be found here https://www.acmg.net/docs/gim2014151a.pdf
+
+    allele
+        One of two or more DNA sequences occurring at a particular gene locus. Typically one allele (“normal” DNA sequence) is common, and other alleles (mutations) are rare.
+
+    allele heterogeneity
+        Different mutations in the same gene that cause different phenotypic manifestations or severity of disease.
+
+    analysis
+        A GIMS analysis refers to the results of data analysis for CGS testing.
+
+    aneuploidy
+        The occurrence of one or more extra or missing chromosomes leading to an unbalanced chromosome complement, or any chromosome number that is not an exact multiple of the haploid number (which is 23).
+
+    Ashkenazi
+        One of two major ancestral groups of Jewish individuals, comprised of those whose ancestors lived in Central and Eastern Europe (e.g., Germany, Poland, Russia). The other group is designated Sephardic Jews and includes those whose ancestors lived in North Africa, the Middle East, and Spain. Most Jews living in the United States are of Ashkenazi descent.
+
+    Audit
+        Systematic, independent and documented verification process of LIMS sample data.
+
+    Audit Trail
+        Audit trails are documented evidences to series of activities occurring at any given point of time, specific operation or event ever since they are first recorded. As part of 21 Code of Federal Regulations Part 11 (21 CFR Part 11), it's a mandate for diagnostics, biobanks and CROs to preserve their records in chronological order for traceability purposes. Information recorded in the audit trail typically includes operator code, case number, amount and quantity prior to change, notes etc.
+
+    autosomal
+        Refers to any of the chromosomes numbered 1-22 or the genes on chromosomes 1-22. This term excludes the sex-determining chromosomes, X and Y.
+
+    autosomal dominant
+        Autosomal dominant inheritance refers to genetic conditions that occur when a mutation is present in one copy of a given gene (i.e., the person is heterozygous).
+
+    autosomal recessive
+        Autosomal recessive inheritance refers to genetic conditions that occur only when mutations are present in both copies of a given gene (i.e., the person is homozygous for a mutation, or carries two different mutations of the same gene, a state referred to as compound heterozygosity).
+
+    base pair
+        Two nitrogen-containing bases pair together between double-stranded DNA; only specific combinations of these bases (e.g., adenine with thymine; guanine with cytosine) are possible, a fact which facilitates accurate DNA replication; when quantified (e.g., 8 base pairs, or bp), this term refers to the actual number of base pairs in a sequence of nucleotides.
+
+    biallelic
+        Of or pertaining to both alleles of a single gene (paternal and maternal). For example, biallelic mutation carriers have a mutation (not necessarily the same mutation) in both copies of a particular gene (a paternal and a maternal mutation).
+
+    Bioinformatics
+        Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data. As an interdisciplinary field of science, bioinformatics combines computer science, statistics, mathematics, and engineering to analyze and interpret biological data. Bioinformatics has been used for in silico analyses of biological queries using mathematical and statistical techniques.
+
+    carrier
+        In classical genetics, an individual who carries one deleterious allele for an autosomal recessive disorder. In clinical discussions, may refer to an individual who carries a deleterious allele that predisposes to disease.
+
+    carrier frequency
+    carrier rate
+        The proportion of individuals in a population who have a single copy of a specific recessive gene mutation; also sometimes applied to the prevalence of mutations in dominantly acting genes such as BRCA1 and BRCA2. Also called carrier rate.
+
+
+    chromosome
+        Discrete physical structures inside a cell nucleus that consist of proteins and DNA organized into genes.
+
+    Clinical Genomics Service
+        The clinical genomics service (CGS) is a testing service established by SHC, SCH and the Stanford School of Medicine to provide diagnostic genetic testing for patients with heretibale disorders of indeterminate cause, based on genomic testing (e.g., exome sequencing, whole genome sequencing).
+
+    clone
+        An identical copy of a DNA sequence or entire gene; one or more cells derived from and identical to a single ancestor cell OR to isolate a gene or specific sequence of DNA.
+
+    CNV
+    copy number variant
+        Refers to the genetic trait involving the number of copies of a particular gene present in the genome of an individual. Genetic variants, including insertions, deletions, and duplications of segments of DNA, are also collectively referred to as CNVs. CNVs account for a significant proportion of the genetic variation between individuals. Also called copy number variant.
+
+    CODIS
+        CODIS is the acronym for the Combined DNA Index System and is the generic term used to describe the FBI's program of support for criminal justice DNA databases as well as the software used to run these databases. Prior to January 1, 2017, the national level of CODIS required that known offender profiles have a set of 13 loci called the "CODIS core". Since then, the requirement has expanded to include seven additional loci. Partial profiles are also allowed in CODIS in separate indexes and are common in crime scene samples that are degraded or are mixtures of multiple individuals. Upload of these profiles to the national level of CODIS requires at least eight of the core loci to be present as well as a profile rarity of 1 in 10 million (calculated using population statistics).
+
+    codon
+        In DNA or RNA, a sequence of 3 consecutive nucleotides that codes for a specific amino acid or signals the termination of gene translation (stop or termination codon).
+        compound heterozygosity
+        The presence of two different mutated alleles at a particular gene locus.
+
+    Compound heterozygosity
+        Compound heterozygosity in medical genetics is the condition of having two heterogeneous recessive alleles at a particular locus that can cause genetic disease in a heterozygous state. That is, an organism is a compound heterozygote when it has two recessive alleles for the same gene, but with those two alleles being different from each other (for example, both alleles might be mutated but at different locations). Compound heterozygosity reflects the diversity of the mutation base for many autosomal recessive genetic disorders; mutations in most disease-causing genes have arisen many times. This means that many cases of disease arise in individuals who have two unrelated alleles, who technically are heterozygotes, but both the alleles are defective.
+
+    congenital
+        A condition or trait present at birth. It may be the result of genetic or non-genetic factors.
+
+    consanguinity
+        Genetic relatedness between individuals who are descendants of at least one common ancestor.
+
+    consent process
+        A process of information exchange between a clinician and an individual or their legal proxy designed to facilitate autonomous, informed decision making. The informed consent process for genetic testing should include an explanation of the medical and psychosocial risks, benefits, limitations, and potential implications of genetic analysis, a discussion of privacy, confidentiality, the documentation and handling of genetic test results, as well as options for managing the hereditary disease risk. Also called informed consent.
+
+    constitutional DNA
+        Constitutional DNA refers to tissue derived from reproductive cells (egg or sperm) that become incorporated into the DNA of every cell in the body of the offspring. A germline mutation may be passed from parent to offspring. Also called germline DNA.
+
+    consultand
+        An individual who presents for genetic counseling. Also called counselee.
+
+    Container
+        A GIMS container is a laboratory container (e.g., a tube or plate), which
+        contains one or more samples.
+
+    cosegregation
+        The transmission, together, of 2 or more genes on the same chromosome, as a result of their being in very close physical proximity to one another (i.e., linked).
+
+    counselee
+        An individual who presents for genetic counseling. Also called consultand.
+
+    Crohn-like reaction
+    Crohn disease-like reaction
+        Discrete aggregates of lymphoid white blood cells, some with germinal centers and surrounding fibrosis, commonly found around some colorectal adenocarcinomas in the absence of a clinical or pathological diagnosis of Crohn disease. Also called Crohn disease-like reaction.
+
+    CSGE
+    conformation-sensitive gel electrophoresis
+        A type of mutation testing in which a segment of DNA is screened for mismatched pairing between normal and mutated base pairs. Also called conformation-sensitive gel electrophoresis.
+
+    cutaneous leiomyoma
+        A benign tumor that arises from smooth muscle tissue in a hair follicle, forming a papule. Cutaneous leiomyomas (or leiomyomata) can be painful in the presence of cold or tactile stimuli.
+
+    cutaneous lichen amyloidosis
+        Itchy papules that are brownish-red in color and typically appear on the shins, thighs, feet, or neck.
+
+    cytogenetics
+        The study of the structure, function, and abnormalities of human chromosomes.
+
+    de novo variant
+    de novo mutation
+        A genetic alteration that is present for the first time in one family member as a result of a variant (or mutation) in a germ cell (egg or sperm) of one of the parents, or a variant that arises in the fertilized egg itself during early embryogenesis. Also called de novo mutation, new mutation, and new variant.
+
+    deleterious mutation
+        A genetic alteration that increases an individual’s susceptibility or predisposition to a certain disease or disorder. When such a variant (or mutation) is inherited, development of symptoms is more likely, but not certain. Also called disease-causing mutation, pathogenic variant, predisposing mutation, and susceptibility gene.
+
+    deletion
+        A type of genetic change that involves the absence of a segment of DNA. It may be as small as a single base but can vary significantly in size.
+
+    depth of coverage
+        Refers to the number of times a nucleotide is read during sequencing. A greater depth of coverage can increase confidence in the final results. Deep coverage aids in differentiating sequencing errors from single nucleotide polymorphisms. This can be specifically useful when a patient has a mosaicism or when a tumor is heterogeneous for a mutation.
+
+    dirty necrosis
+        Presence of necrotic cellular debris within the lumen of the neoplastic glands in the colorectal mucosa.
+
+    disease-causing mutation
+        A genetic alteration that increases an individual’s susceptibility or predisposition to a certain disease or disorder. When such a variant (or mutation) is inherited, development of symptoms is more likely, but not certain. Also called deleterious mutation, pathogenic variant, predisposing mutation, and susceptibility gene.
+
+    DNA
+    deoxyribonucleic acid
+        The molecular basis of heredity; encodes the genetic information responsible for the development and function of an organism and allows for transmission of that genetic information from one generation to the next. The DNA molecule is structured as a double-stranded helix held together by weak hydrogen bonds between purine-pyrimidine nucleotide base pairs: adenine (A) paired with thymine (T), and guanine (G) paired with cytosine (C). Also called deoxyribonucleic acid.
+
+    domain
+        A specific physical region or amino acid sequence in a protein which is associated with a particular function or corresponding segment of DNA.
+
+    double heterozygosity
+        The presence of two different mutated alleles at two separate genetic loci.
+
+    Electronic Health Record
+    EHR
+        An electronic health record (EHR) is a digital version of a patient's paper chart. EHRs are real-time, patient-centered records that make information available instantly and securely to authorized users.
+
+    Electronic Medical Record
+    EMR
+        An electronic medical record (EMR), is the systematized collection of patient and population electronically-stored health information in a digital format. These records can be shared across different health care settings.
+
+    Epic
+        The Epic EMR system
+
+    epigenetics
+        The study of heritable changes that do not affect the DNA sequence but influence gene expression.
+
+    epimutation
+    epigenetic variant
+    epigenetic alteration
+        A heritable change that does not affect the DNA sequence but results in a change in gene expression. Examples include promoter methylation and histone modifications. Also called epigenetic alteration and epigenetic variant.
+
+    ER-negative PR-negative HER2/neu-negative breast cancer
+        ER-negative PR-negative HER2/neu-negative breast cancer is defined by a lack of expression of estrogen receptor (ER), progesterone receptor (PR), and human epidermal growth factor receptor 2 (HER2/neu). Also called **triple-negative breast cancer**.
+
+    euchromatin
+        Euchromatin is a lightly packed form of chromatin (DNA, RNA and protein) that is enriched in genes, and is often (but not always) under active transcription. Euchromatin comprises the most active portion of the genome within the cell nucleus. 92% of the human genome is euchromatic. The remainder is called heterochromatin.
+
+    exon
+        The sequence of DNA present in mature messenger RNA, some of which encodes the amino acids of a protein. Most genes have multiple exons with introns between them.
+
+    exome
+        The exome is the part of the genome formed by exons, the sequences which when transcribed remain within the mature RNA after introns are removed by RNA splicing. It consists of all DNA that is transcribed into mature RNA in cells of any type as distinct from the transcriptome, which is the RNA that has been transcribed only in a specific cell population. The exome of the human genome consists of roughly 180,000 exons constituting about 1% of the total genome, or about 30 megabases of DNA. Though comprising a very small fraction of the genome, mutations in the exome are thought to harbor 85% of mutations that have a large effect on disease. Exome sequencing has proved to be an efficient strategy to determine the genetic basis of more than two dozen Mendelian or single gene disorders.
+
+    facies
+        A distinctive facial feature or expression that is characteristic of a specific condition.
+
+    false-positive result
+        A test result that indicates an individual is affected and/or has a certain gene mutation when he or she is actually unaffected and/or does not have the mutation; i.e., a positive test result in a truly unaffected or mutation-negative individual.
+
+    Family
+        A GIMS family is a record of the genetic relationship between individuals. For example, the proband as well as the proband's parents. In many cases, family information is captured within an order (i.e., a trio order contains the proband as well as the parents of the proband).
+
+    familial
+        A phenotype or trait that occurs with greater frequency in a given family than in the general population; familial traits may have a genetic and/or nongenetic etiology.
+
+    family history
+    family medical history
+        The genetic relationships within a family combined with the medical history of individual family members. When represented in diagram form using standardized symbols and terminology, it is usually referred to as a pedigree or family tree. Also called family medical history.
+
+    FDR
+    first-degree relative
+        The parents, siblings, or children of an individual. Also called first-degree relative.
+
+    fibrofolliculoma
+        A benign tumor of the hair follicle that appears as a small, whitish papule. Fibrofolliculomas are typically found on the face, ears, neck, and upper torso. They are pathognomonic for Birt-Hogg-Dubé syndrome, a hereditary condition associated with the development of kidney cancer.
+
+    Fingerprinting
+        Fingerprinting refers to the Fluidigm-based sample identification assays used to verify the identity of samples throughout the genomic testing and analysis testing process, based on the attributes of a set of unique genomic regions, analyzed in each individual. The unique genomic regions used in this assay are highly variable, yet nominally repetitive, making them compatible with NGS technology. This assay is distinct from STR-based identification systems such as CODIS.
+
+    FISH
+    fluorescence in situ hybridization
+        A technique used to identify the presence of specific chromosomes or chromosomal regions through hybridization (attachment) of fluorescently-labeled DNA probes to denatured chromosomal DNA. Examination through a microscope under fluorescent lighting detects the presence of the colored hybridized signal (and hence presence of the chromosome material) or absence of the hybridized signal (and hence absence of the chromosome material). Also called fluorescence in situ hybridization.
+
+    founder variant
+    founder mutation
+        A genetic alteration observed with high frequency in a group that is or was geographically or culturally isolated, in which one or more of the ancestors was a carrier of the altered gene. This phenomenon is often called a founder effect. Also called founder mutation.
+
+    frameshift variant
+    frameshift mutation
+        An insertion or deletion involving a number of base pairs that is not a multiple of three, which consequently disrupts the triplet reading frame of a DNA sequence. Such variants (or mutations) usually lead to the creation of a premature termination (stop) codon, and result in a truncated (shorter-than-normal) protein product. Also called frameshift variant.
+
+    gene
+        The basic unit of heredity that occupies a specific location on a chromosome. Each consists of nucleotides arranged in a linear manner. Most genes code for a specific protein or segment of protein leading to a particular characteristic or function.
+
+    genetic anticipation
+        A phenomenon in which the signs and symptoms of some genetic conditions tend to become more severe and/or appear at an earlier age as the disorder is passed from one generation to the next. Huntington disease is an example of a genetic disorder in which the biological mechanism for this phenomenon has been well documented. In other cases, it may be due to factors such as increased surveillance or other nongenetic causes.
+
+    genetic counseling
+        A communication process that seeks to assist affected or at-risk individuals and families in understanding the natural history, disease risks, and mode of transmission of a genetic disorder; to facilitate informed consent for genetic testing when appropriate; to discuss options for risk management and family planning; and to provide for or refer individuals for psychosocial support as needed.
+
+    genetic heterogeneity
+        The production of the same or similar phenotypes (observed biochemical, physiological, and morphological characteristics of a person determined by his/her genotype) by different genetic mechanisms. There are two types: (1) allelic heterogeneity – when different alleles at a locus can produce variable expression of a condition; and (2) locus heterogeneity – the term used to describe disease in which mutations at different loci can produce the same disease phenotype.
+
+    genetic marker
+        An identifiable segment of DNA (e.g., Single Nucleotide Polymorphism [SNP], Restriction Fragment Length Polymorphism [RFLP], Variable Number of Tandem Repeats [VNTR], microsatellite) with enough variation between individuals that its inheritance and co-inheritance with alleles of a given gene can be traced; used in linkage analysis.
+
+    genetic predisposition
+    genetic susceptibility
+        Increased likelihood or chance of developing a particular disease due to the presence of one or more gene mutations and/or a family history that indicates an increased risk of the disease. Also called genetic susceptibility.
+
+    genetic screening
+        Genetic testing designed to identify individuals in a given population who are at higher risk of having or developing a particular disorder, or carrying a gene for a particular disorder.
+
+    genetic variant
+        An alteration in the most common DNA nucleotide sequence. The term variant can be used to describe an alteration that may be benign, pathogenic, or of unknown significance. The term variant is increasingly being used in place of the term mutation.
+
+    genodermatosis
+        An inherited syndrome that includes a dermatological (skin) phenotype.
+
+    GWAS
+    genome-wide association study
+        A genome-wide association study (GWAS) is a way for scientists to identify inherited genetic variants associated with risk of disease or a particular trait. This method surveys the entire genome for genetic polymorphisms, typically single nucleotide polymorphisms (SNPs) (pronounced “snips”), that occur more frequently in cases (people with the disease or trait being assessed) than in controls (people without the disease or trait). Also called GWAS.
+
+    genomic imprinting
+        An epigenetic process resulting in the inactivation of an allele depending on which parent it was inherited from. Genomic imprinting can have clinical relevance because it may affect the expression of a gene mutation (i.e., the phenotype) in the offspring of an affected parent depending on which parent is passing on the mutation.
+
+    genotype
+        At its broadest level, genotype includes the entire genetic constitution of an individual. It is often applied more narrowly to the set of alleles present at one or more specific loci.
+
+    germline
+        The cells from which eggs or sperm (i.e., gametes) are derived.
+
+    germline DNA
+        Germline DNA refers to tissue derived from reproductive cells (egg or sperm) that become incorporated into the DNA of every cell in the body of the offspring. A germline mutation may be passed from parent to offspring. Also called constitutional DNA.
+
+    germline variant
+        A gene change in a reproductive cell (egg or sperm) that becomes incorporated into the DNA of every cell in the body of the offspring. A variant contained within the germline can be passed from parent to offspring, and is, therefore, hereditary.
+
+    GIMS
+        The Genomic Information Management System
+
+    haploinsufficiency
+        The situation that occurs when one copy of a gene is inactivated or deleted and the remaining functional copy of the gene is not adequate to produce the needed gene product to preserve normal function.
+
+    haplotype
+        A set of closely linked genetic markers present on one chromosome which tend to be inherited together.
+
+    hemizygous
+        Describes an individual who has only one member of a chromosome pair or chromosome segment rather than the usual two. Hemizygosity is often used to describe X-linked genes in males who have only one X chromosome. This term is sometimes used in somatic cell genetics where cancer cell lines are often hemizygous for certain alleles or chromosomal regions.
+
+    heritability
+        The proportion of variation in a population trait that can be attributed to inherited genetic factors. Heritability estimates range from 0 to 1 and are often expressed as a percentage. A number close to 1 may be indicative of a highly heritable trait within a population. It should not be used to estimate risk on an individual basis.
+
+    heterochromatin
+        Heterochromatin is a tightly packed form of DNA, which comes in multiple varieties. These varieties lie on a continuum between the two extremes of constitutive and facultative heterochromatin.
+
+    heteroduplex analysis
+        A method of detecting sequence differences between normal DNA and the DNA to be tested. It is commonly used as a screening method to detect potential mutations in a gene.
+
+    HLOD score
+    heterogeneity logarithm of the odds score
+        A statistical estimate of whether two genetic loci are physically near enough to each other (or “linked”) on a particular chromosome that they are likely to be inherited together. A heterogeneity logarithm of the odds score is calculated in the presence of locus heterogeneity (when the same phenotype can be caused by mutations in genes at different chromosomal loci). Also called HLOD score.
+
+    heterozygous genotype
+        Occurs when the two alleles at a particular gene locus are different. A heterozygous genotype may include one normal allele and one mutation, or two different mutations. The latter is called a compound heterozygote.
+
+    HIPAA
+        The Health Insurance Portability and Accountability Act of 1996 (HIPAA)
+
+        - `HHS HIPAA Information Page <https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html>`_
+
+    HITECH
+        The Health Information Technology for Economic and Clinical Health (HITECH) Act
+
+        - `HHS HITECH Information Page <https://www.hhs.gov/hipaa/for-professionals/special-topics/HITECH-act-enforcement-interim-final-rule/index.html>`_
+
+    homozygous genotype
+        Occurs when both alleles at a particular gene locus are the same. A person may be homozygous for the normal allele or for a mutation.
+
+    inconclusive
+    indeterminate
+        A negative test result in an individual where a clearly deleterious mutation has not been found in any family members. The genetic risk status of such an individual must be interpreted in the context of his or her personal and family history. Also called indeterminate and uninformative.
+
+    index case
+        A clinically affected individual through whom attention is first drawn to a genetic disorder in a family.
+
+    informative
+        In genetic testing, a test result that reveals definitively the presence or absence of the germline genetic alteration associated with the hereditary disorder being assessed. In linkage analysis, the ability to distinguish between maternally inherited and paternally inherited DNA markers (polymorphisms) within or near a given gene of interest.
+
+    informed consent
+        A process of information exchange between a clinician and an individual or their legal proxy designed to facilitate autonomous, informed decision making. The informed consent process for genetic testing should include an explanation of the medical and psychosocial risks, benefits, limitations, and potential implications of genetic analysis, a discussion of privacy, confidentiality, the documentation and handling of genetic test results, as well as options for managing the hereditary disease risk. Also called consent process.
+
+    inherited cancer syndrome
+        Describes the clinical manifestations associated with a mutation conferring cancer susceptibility.
+
+    insertion
+        A type of genetic change that involves the addition of a segment of DNA. It may be as small as a single base but can vary significantly in size.
+
+    intron
+        The sequence of DNA in between exons that is initially copied into RNA but is cut out of the final RNA transcript and therefore does not change the amino acid code. Some intronic sequences are known to affect gene expression.
+
+    inversion
+        A chromosomal defect in which a segment of the chromosome breaks off and reattaches in the reverse direction.
+
+    kindred
+        An extended family.
+
+    late or variable onset
+        The state in which a genetic trait is expressed later in life or is expressed at no fixed time in a life history.
+
+    LD
+        Where alleles (DNA markers) occur together more often than can be accounted for by chance because of their physical proximity on a chromosome. Also called linkage disequilibrium.
+
+    LEEP
+        Loom enhanced exome pipeline
+
+    LIS
+    linkage disequilibrium
+        Laboratory Information System - a system used for tracking and storing laboratory sample information (the term LIS is generally used in clinical contexts, whereas the term LIMS may be used in clinical or non-clinical contexts)
+
+    LIMS
+        Laboratory Information Management System - a system for tracking and storing laboratory sample information (the term LIS is generally used in clinical contexts, whereas the term LIMS may be used in clinical or non-clinical contexts)
+
+    linkage
+        The tendency for genes or segments of DNA closely positioned along a chromosome to segregate together at meiosis, and therefore be inherited together.
+
+    linkage analysis
+        A gene-hunting technique that traces patterns of disease in high-risk families. It attempts to locate a disease-causing gene by identifying genetic markers of known chromosomal location that are co-inherited with the trait of interest.
+
+    locus
+        The physical site or location of a specific gene on a chromosome.
+
+    locus heterogeneity
+        The same phenotype is caused by mutations in genes at different chromosomal loci.
+
+    LOD score
+    logarithm of the odds score
+        A statistical estimate of whether two genetic loci are physically near enough to each other (or "linked") on a particular chromosome that they are likely to be inherited together. A LOD score of 3 or higher is generally understood to mean that two genes are located close to each other on the chromosome. In terms of significance, a LOD score of 3 means the odds are 1,000:1 that the two genes are linked and therefore inherited together. Also called logarithm of the odds score.
+
+    LOH
+    loss of heterozygosity
+        If there is one normal and one abnormal allele at a particular locus, as might be seen in an inherited autosomal dominant cancer susceptibility disorder, loss of the normal allele produces a locus with no normal function. When the loss of heterozygosity involves the normal allele, it creates a cell that is more likely to show malignant growth if the altered gene is a tumor suppressor gene. Also called loss of heterozygosity.
+
+    Loom
+        Bioinformatics workflow engine, maintained here:
+
+        - `Loom <https://github.com/StanfordBioinformatics/loom>`_
+
+    massively parallel sequencing
+        A high-throughput method used to determine a portion of the nucleotide sequence of an individual’s genome. This technique utilizes DNA sequencing technologies that are capable of processing multiple DNA sequences in parallel. Also called next-generation sequencing and NGS.
+
+    microsatellite
+        Repetitive segments of DNA scattered throughout the genome in noncoding regions between genes or within genes (introns). They are often used as markers for linkage analysis because of their naturally occurring high variability in repeat number between individuals. These regions are inherently genetically unstable and susceptible to mutations.
+
+    microsatellite instability
+        A characteristic of cells that contain an abnormality in DNA mismatch repair (see microsatellite). For example, the presence of MSI in colorectal tumor tissue may be used as a marker for germline mutations in one of the DNA mismatch repair genes associated with HNPCC. MSI can also occur sporadically, and in these cases is related to gene hypermethylation. This is an issue in the differential diagnosis of HNPCC. Also called MSI.
+
+    missense mutation
+        A genetic alteration in which a single base pair substitution alters the genetic code in a way that produces an amino acid that is different from the usual amino acid at that position. Some missense variants (or mutations) will alter the function of the protein. Also called missense variant.
+
+    missense variant
+        A genetic alteration in which a single base pair substitution alters the genetic code in a way that produces an amino acid that is different from the usual amino acid at that position. Some missense variants (or mutations) will alter the function of the protein. Also called missense mutation.
+
+    mitochondiral DNA
+        Mitochondrial DNA (mtDNA or mDNA) is the DNA located in mitochondria, cellular organelles within eukaryotic cells that convert chemical energy from food into a form that cells can use, adenosine triphosphate (ATP). Mitochondrial DNA is only a small portion of the DNA in a eukaryotic cell; most of the DNA can be found in the cell nucleus. In humans, the 16,569 base pairs of mitochondrial DNA encode for only 37 genes. Human mitochondrial DNA was the first significant part of the human genome to be sequenced. In most species, including humans, mtDNA is inherited solely from the mother.
+
+    MLPA
+        A laboratory method commonly used for the detection of unusual copy number changes (insertions or deletions) of genomic sequences. Also called multiplex ligation-dependent probe amplification.
+
+    mode of inheritance
+        The manner in which a genetic trait or disorder is passed from one generation to the next. Autosomal dominant, autosomal recessive, X-linked dominant, X-linked recessive, multifactorial, and mitochondrial inheritance are examples. Each mode of inheritance results in a characteristic pattern of affected and unaffected family members.
+
+    mosaicism
+        The occurrence of 2 or more cell lines with different genetic or chromosomal make-up, within a single individual or tissue.
+
+    MRN
+        Medical Record Number
+
+    MSI
+        A characteristic of cells that contain an abnormality in DNA mismatch repair (see microsatellite). For example, the presence of MSI in colorectal tumor tissue may be used as a marker for germline mutations in one of the DNA mismatch repair genes associated with HNPCC. MSI can also occur sporadically, and in these cases is related to gene hypermethylation. This is an issue in the differential diagnosis of HNPCC. Also called microsatellite instability.
+
+    multigene test
+        Genetic tests that use next-generation sequencing to test multiple genes simultaneously. Also called multiple-gene panel test and multiple-gene test.
+
+    multiple-gene panel test
+        Genetic tests that use next-generation sequencing to test multiple genes simultaneously. Also called multigene test and multiple-gene test.
+
+    multiple-gene test
+        Genetic tests that use next-generation sequencing to test multiple genes simultaneously. Also called multigene test and multiple-gene panel test.
+
+    multiplex genomic test
+        A method for detecting multiple genetic alterations (i.e., gene mutations or single nucleotide polymorphisms in a single gene or across the genome) simultaneously.
+
+    multiplex ligation-dependent probe amplification
+        A laboratory method commonly used for the detection of unusual copy number changes (insertions or deletions) of genomic sequences. Also called MLPA.
+
+    mutation
+        A change in the usual DNA sequence at a particular gene locus. Although the term often has a negative connotation, mutations (including polymorphisms) can be harmful, beneficial, or neutral in their effect on cell function. The term variant is sometimes used as a synonym for the term mutation.
+
+    mutation analysis
+        A germline genetic testing method targeted to detect a specific variant or mutation (such as a deleterious MSH2 variant previously identified in a family), panel of variants (such as the 3 BRCA pathogenic variants comprising the founder mutation panel for individuals of Ashkenazi Jewish ancestry) or type of variant (such as large deletions or insertions in the BRCA1 gene). This type of testing is distinct from complete gene sequencing or variant scanning. The latter are designed to detect most variants in the region being tested. Current usage also applies this term to any genetic test.
+
+    negative predictive value
+        The likelihood that an individual with a negative test result is truly unaffected and/or does not have the particular gene mutation in question. Also called NPV.
+
+    new mutation
+        A genetic alteration that is present for the first time in one family member as a result of a variant (or mutation) in a germ cell (egg or sperm) of one of the parents, or a variant that arises in the fertilized egg itself during early embryogenesis. Also called de novo mutation, de novo variant, and new variant.
+
+    new variant
+        A genetic alteration that is present for the first time in one family member as a result of a variant (or mutation) in a germ cell (egg or sperm) of one of the parents, or a variant that arises in the fertilized egg itself during early embryogenesis. Also called de novo mutation, de novo variant, and new mutation.
+
+    next-generation sequencing
+        A high-throughput method used to determine a portion of the nucleotide sequence of an individual’s genome. This technique utilizes DNA sequencing technologies that are capable of processing multiple DNA sequences in parallel. Also called massively parallel sequencing and NGS.
+
+    NGS
+    next generation sequencing
+        A high-throughput method used to determine a portion of the nucleotide sequence of an individual’s genome. This technique utilizes DNA sequencing technologies that are capable of processing multiple DNA sequences in parallel. Also called massively parallel sequencing and next-generation sequencing.
+
+    noncarrier
+        An individual who does not carry a mutation previously identified in his or her family.
+
+    noninferiority study
+        A research study that is designed to determine whether one intervention is not worse than another control intervention by a predetermined margin. An intervention that yields outcomes which are equivalent to or better than the control intervention is considered not inferior to the control intervention. Noninferiority studies are often conducted to examine whether a new, experimental treatment is not worse than an established standard of care.
+
+    nonpenetrance
+        The state in which a genetic trait, although present in the appropriate genotype, fails to manifest itself in the phenotype (e.g., a woman with a BRCA1 mutation who lives to be elderly and never develops breast or ovarian cancer).
+
+    nonsense mutation
+        A genetic alteration that causes the premature termination of a protein. The altered protein may be partially or completely inactivated, resulting in a change or loss of protein function. Also called nonsense variant.
+
+    nonsense variant
+        A genetic alteration that causes the premature termination of a protein. The altered protein may be partially or completely inactivated, resulting in a change or loss of protein function. Also called nonsense mutation.
+
+    novel mutation
+        A newly discovered, distinct genetic alteration; NOT the same as new or de novo variant (or mutation). Also called novel variant.
+
+    novel variant
+        A newly discovered, distinct genetic alteration; NOT the same as new or de novo variant (or mutation). Also called novel mutation.
+
+    NPV
+        The likelihood that an individual with a negative test result is truly unaffected and/or does not have the particular gene mutation in question. Also called negative predictive value.
+
+    nucleotide
+        A molecule consisting of a nitrogen-containing base (adenine, guanine, thymine, or cytosine in DNA; adenine, guanine, uracil, or cytosine in RNA), a phosphate group, and a sugar (deoxyribose in DNA; ribose in RNA). DNA and RNA are polymers comprised of many nucleotides, strung together like beads in a necklace.
+
+    null allele
+        A mutation that results in either no gene product or the absence of function at the phenotypic level.
+
+    nutrigenomics
+        The study of the interaction of dietary and genetic factors and its effect on metabolism, health status, and risk of disease.
+
+    Order
+        A GIMS order is the record of a test formally requested from the CGS. Order types may include the following:
+        * Proband-only - an order consisting of a proband (patient)
+        * Trio - an order consisting of a proband (patient) and that patient's parents.
+
+    pathogenic variant
+        A genetic alteration that increases an individual’s susceptibility or predisposition to a certain disease or disorder. When such a variant (or mutation) is inherited, development of symptoms is more likely, but not certain. Also called deleterious mutation, disease-causing mutation, predisposing mutation, and susceptibility gene.
+
+    pathognomonic
+        Findings that are distinctive or characteristic of a particular disease or condition and make the diagnosis.
+
+    Patient
+        A GIMS patient is an individual with a record in the Epic EMR system. Patients may include an individual undergoing testing by the CGS (i.e., the proband) as well as individuals not undergoing testing by the CGS (ie., the proband's relatives), as well as any other service.
+
+    PCR
+        A procedure that produces millions of copies of a short segment of DNA through repeated cycles of: (1) denaturation, (2) annealing, and (3) elongation. PCR is a very common procedure in molecular genetic testing and may be used to generate a sufficient quantity of DNA to perform a test (e.g., allele-specific amplification, trinucleotide repeat quantification). Also called polymerase chain reaction.
+
+    pedigree
+        A graphic illustration of family history.
+
+    penetrance
+        A characteristic of a genotype; it refers to the likelihood that a clinical condition will occur when a particular genotype is present.
+
+    phenocopy
+        A phenotypic trait or disease that resembles the trait expressed by a particular genotype, but in an individual who is not a carrier of that genotype. For example, breast cancer in a hereditary breast/ovarian cancer syndrome family member who does not carry the family’s BRCA1 or BRCA2 mutation would be considered a phenocopy. Such an individual does not have the family’s cancer-related mutation and therefore, they do not have the associated cancer risk from that specific mutation.
+
+    phenotype
+        The observable characteristics in an individual resulting from the expression of genes; the clinical presentation of an individual with a particular genotype.
+
+    point mutation
+        A genetic alteration caused by the substitution of a single nucleotide for another nucleotide. Also called point variant.
+
+    point variant
+        A genetic alteration caused by the substitution of a single nucleotide for another nucleotide. Also called point mutation.
+
+    polymerase chain reaction
+        A procedure that produces millions of copies of a short segment of DNA through repeated cycles of: (1) denaturation, (2) annealing, and (3) elongation. Polymerase chain reaction is a very common procedure in molecular genetic testing and may be used to generate a sufficient quantity of DNA to perform a test (e.g., allele-specific amplification, trinucleotide repeat quantification). Also called PCR.
+
+    polymorphism
+        A common mutation. “Common” is typically defined as an allele frequency of at least 1%. All genes occur in pairs, except when x and y chromosomes are paired in males; thus a polymorphism with an allele frequency of 1% would be found in about 2% of the population, with most carriers having one copy of the polymorphism and one copy of the normal allele.
+
+    population risk
+        The proportion of individuals in the general population who are affected with a particular disorder or who carry a certain gene; often discussed in the genetic counseling process as a comparison to the patient’s personal risk given his or her family history or other circumstances.
+
+    PPV
+    positive predictive value
+        The likelihood that an individual with a positive test result truly has the particular gene and/or disease in question. Also called positive predictive value.
+
+    predisposing mutation
+        A genetic alteration that increases an individual’s susceptibility or predisposition to a certain disease or disorder. When such a variant (or mutation) is inherited, development of symptoms is more likely, but not certain. Also called deleterious mutation, disease-causing mutation, pathogenic variant, and susceptibility gene.
+
+    presymptomatic testing
+        Genetic analysis of an asymptomatic or unaffected individual who is at risk of a specific genetic disorder.
+
+    proband
+        The individual through whom a family with a genetic disorder is ascertained. A proband is the person serving as the starting point for the genetic study of a family.
+
+    proposita
+        The female individual through whom a family with a genetic disorder is ascertained. In males this is called a propositus.
+
+    propositus
+        The male individual through whom a family with a genetic disorder is ascertained. In females this is called a proposita.
+
+    Project
+        A GIMS project is a laboratory data object, which contains one or more
+        samples upon which operations are to be completed.
+
+    pseudogene
+        A DNA sequence that resembles a gene but has been mutated into an inactive form over the course of evolution. It often lacks introns and other essential DNA sequences necessary for function. Though genetically similar to the original functional gene, pseudogenes do not result in functional proteins, although some may have regulatory effects.
+
+    Qubit
+        Qubit is a measurement system which uses a fluorescent intercolating dye to specifically detect and measure DNA and RNA.
+        `Qubit manufacturer's information site <https://www.thermofisher.com/us/en/home/industrial/spectroscopy-elemental-isotope-analysis/molecular-spectroscopy/fluorometers/qubit.html>`_
+
+    recurrence risk
+        In genetics, the likelihood that a hereditary trait or disorder present in one family member will occur again in other family members. This is distinguished from recurrence risk for cancer, which is the chance that a cancer that has been treated will recur.
+
+    ribosomal RNA
+        Ribosomal ribonucleic acid (rRNA) is the RNA component of the ribosome, and is essential for protein synthesis in all living organisms. It constitutes the predominant material within the ribosome, which is approximately 60% rRNA and 40% protein by weight, or 3/5 of ribosome mass. Ribosomes contain two major rRNAs and 50 or more proteins. The ribosomal RNAs form two subunits, the large subunit (LSU) and small subunit (SSU). The LSU rRNA acts as a ribozyme, catalyzing peptide bond formation. rRNA sequences are widely used for working out evolutionary relationships among organisms, since they are of ancient origin and are found in all known forms of life.
+
+    risk assessment
+        The quantitative or qualitative assessment of an individual’s risk of carrying a certain gene mutation, or developing a particular disorder, or of having a child with a certain disorder; sometimes done by using mathematical or statistical models incorporating such factors as personal health history, family medical history and ethnic background.
+
+    sample
+        A GIMS sample is a laboratory sample, upon which laboratory operations
+        are to be completed.
+
+    sanger sequencing
+        A low-throughput method used to determine a portion of the nucleotide sequence of an individual’s genome. This technique uses polymerase chain reaction (PCR) amplification of genetic regions of interest followed by sequencing of PCR products.
+
+    screening
+        Clinical evaluation of an asymptomatic individual in the general population aimed at identifying abnormalities which might signal the presence of a specific medical condition. The intent is to find diseases at the earliest possible stage in their development in order to improve the chances for cure or reduce morbidity.
+
+    SDR
+    second-degree relative
+        The aunts, uncles, grandparents, grandchildren, nieces, nephews, or half-siblings of an individual. Also called **second-degree relative**.
+
+    segregation analysis
+        The process of fitting formal genetic models to data on expressed disease characteristics (phenotype) in biological family members in order to determine the most likely mode of inheritance for the trait or disease under study.
+
+    sensitivity
+        The frequency with which a test yields a true positive result among individuals who actually have the disease or the gene mutation in question. A test with high sensitivity has a low false-negative rate and thus does a good job of correctly identifying affected individuals.
+
+    simplex case
+        A single, isolated occurrence of an inherited condition in a family. Simplex cases can result from certain inheritance patterns or be caused by de novo mutations or reduced penetrance within the family. It can also result from nongenetic causes such as adoption or alternate paternity.
+
+    single nucleotide polymorphism
+        DNA sequence variations that occur when a single nucleotide (adenine, thymine, cytosine, or guanine) in the genome sequence is altered; usually present in at least 1% of the population. Also called SNP.
+
+    single-stranded conformation polymorphism analysis
+        A laboratory test used to separate single-stranded nucleic acids based on subtle differences in their DNA sequence, often a single base pair, which results in a different secondary structure and a measurable difference in mobiity through a gel. Also called SSCP analysis.
+
+    single-stranded conformational polymorphism
+        A type of mutation scanning; the identification of abnormally-migrating single-stranded DNA segments on gel electrophoresis. Also called SSCP.
+
+    skin tag
+        A small, benign skin growth that may have a stalk (peduncle). Skin tags most commonly appear on the neck, axillary, groin, and inframammary regions. Also called acrochordon.
+
+    SNP
+        DNA sequence variations that occur when a single nucleotide (adenine, thymine, cytosine, or guanine) in the genome sequence is altered; usually present in at least 1% of the population. Also called **single nucleotide polymorphism**.
+
+    somatic variant
+        An alteration in DNA that occurs after conception and is not present within the germline. Somatic variants can occur in any of the cells of the body except the germ cells (sperm and egg) and therefore are not passed on to children. Somatic variants can (but do not always) cause cancer or other diseases.
+
+    Southern blot
+        Electrophoresis-based technique used in genetic testing to detect large deletions in DNA that can be missed by PCR-based genetic testing methods.
+
+    specificity
+        The frequency with which a test yields a true negative result among individuals who do not have the disease or the gene mutation in question. A test with high specificity has a low false-positive rate and thus does a good job of correctly classifying unaffected individuals.
+
+    splice-site mutation
+        A genetic alteration in the DNA sequence that occurs at the boundary of an exon and an intron (splice site). This change can disrupt RNA splicing resulting in the loss of exons or the inclusion of introns and an altered protein-coding sequence. Also called splice-site variant.
+
+    splice-site variant
+        A genetic alteration in the DNA sequence that occurs at the boundary of an exon and an intron (splice site). This change can disrupt RNA splicing resulting in the loss of exons or the inclusion of introns and an altered protein-coding sequence. Also called splice-site mutation.
+
+    splicing
+        The process by which introns, the noncoding regions of genes, are excised out of the primary messenger RNA transcript, and the exons (i.e., coding regions) are joined together to generate mature messenger RNA. The latter serves as the template for synthesis of a specific protein.
+
+    sporadic cancer
+        This term has two meanings. It is sometimes used to differentiate cancers occurring in people who do not have a germline mutation that confers increased susceptibility to cancer from cancers occurring in people who are known to carry a mutation. Cancer developing in people who do not carry a high-risk mutation is referred to as sporadic cancer. The distinction is not absolute, because genetic background may influence the likelihood of cancer even in the absence of a specific predisposing mutation. Alternatively, sporadic is also sometimes used to describe cancer occurring in individuals without a family history of cancer.
+
+    SSCP
+        A type of mutation scanning; the identification of abnormally-migrating single-stranded DNA segments on gel electrophoresis. Also called single-stranded conformational polymorphism.
+
+    SSCP analysis
+        A laboratory test used to separate single-stranded nucleic acids based on subtle differences in their DNA sequence, often a single base pair, which results in a different secondary structure and a measurable difference in mobiity through a gel. Also called single-stranded conformation polymorphism analysis.
+
+    sumLOD score
+        The summation of all positive pedigree LOD scores (statistical estimates of whether two genetic loci are physically near enough to each other on a particular chromosome that they are likely to be inherited together) at each point in the genome. Also called summary logarithm of the odds score.
+
+    summary logarithm of the odds score
+        The summation of all positive pedigree LOD scores (statistical estimates of whether two genetic loci are physically near enough to each other on a particular chromosome that they are likely to be inherited together) at each point in the genome. Also called sumLOD score.
+
+    surveillance
+        Periodic clinical evaluation of an individual who is at increased risk of developing a condition (compared with the general population) aimed at detecting new or recurrent disease. In public health, surveillance may also refer to the systematic collection of information regarding the incidence, prevalence, and mortality related to various medical conditions or health-related events.
+
+    susceptibility gene
+        A genetic alteration that increases an individual’s susceptibility or predisposition to a certain disease or disorder. When such a variant (or mutation) is inherited, development of symptoms is more likely, but not certain. Also called deleterious mutation, disease-causing mutation, pathogenic variant, and predisposing mutation.
+
+    tagging SNP
+        A single nucleotide polymorphism, or SNP, that is used to “tag” a particular haplotype in a region of the genome. As a subset of all of the SNPs in the genome, tagging SNPs can be extremely useful for testing the association of a marker locus with a qualitative or quantitative trait locus in that it may not be necessary to genotype all of the SNPs. Also called tagSNP.
+
+    tagSNP
+        A single nucleotide polymorphism, or SNP, that is used to “tag” a particular haplotype in a region of the genome. As a subset of all of the SNPs in the genome, tagSNPs can be extremely useful for testing the association of a marker locus with a qualitative or quantitative trait locus in that it may not be necessary to genotype all of the SNPs. Also called tagging SNP.
+
+    telomere
+        The end of a chromosome. Telomeres are made of repetitive sequences of non-coding DNA that protect the chromosome from damage. Telomeres become shorter each time the cell divides.
+
+    throughput
+        The quantity of information, people, or materials that is put through a process in a specific period of time. In medicine, it can be used to describe the efficiency of laboratory procedures, such as genetic sequencing, or the number of patients seen in a clinic in a certain period of time.
+
+    transcription
+        The process of synthesizing messenger RNA (mRNA) from DNA.
+
+    translation
+        The process of synthesizing an amino acid sequence (protein product) from the messenger RNA code.
+
+    translocation
+        A type of chromosomal abnormality in which a chromosome breaks and a portion of it reattaches to a different chromosomal location.
+
+    trichilemmoma
+        A benign tumor arising from the outer cells of the hair follicle.
+
+    trinucleotide repeat
+        Sequences of 3 nucleotides repeated in tandem on the same contiguous section of chromosome. A certain amount of normal (polymorphic) variation in repeat number with no clinical significance commonly occurs between individuals; however, repeat numbers over a certain threshold can, in some cases, lead to adverse effects on the function of the gene, resulting in genetic disease.
+
+    Trio
+        A trio is a form of a genetic case, consisting of a proband, mother and father.
+
+    triple-negative breast cancer
+        Triple-negative breast cancer is defined by a lack of expression of estrogen receptor (ER), progesterone receptor (PR), and human epidermal growth factor receptor 2 (HER2/neu). Also called ER-negative PR-negative HER2/neu-negative breast cancer.
+
+    trisomy
+        The presence of an extra chromosome, resulting in a total of three copies of that chromosome instead of the normal 2 copies (e.g., trisomy 21, or Down syndrome).
+
+    tumor sequencing
+        Sequencing of somatic tissue, such as tumors, refers to looking for variants in DNA that typically occur after conception. Somatic mutations can occur in any of the cells of the body except the germ cells (sperm and egg) and therefore are not passed on to children. These variants can (but do not always) cause cancer or other diseases.
+
+    tumor suppressor gene
+        A type of gene that regulates cell growth. When a tumor suppressor gene is mutated, uncontrolled cell growth may occur. This may contribute to the development of cancer. Also called antioncogene.
+
+    unaffected
+        An individual who does not manifest symptoms of a condition or disease occurring in his or her family.
+
+    unclassified variant
+        A variation in a genetic sequence whose association with disease risk is unknown. Also called variant of uncertain significance, variant of unknown significance, and VUS.
+
+    uninformative
+        A negative test result in an individual where a clearly deleterious mutation has not been found in any family members. The genetic risk status of such an individual must be interpreted in the context of his or her personal and family history. Also called inconclusive and indeterminate.
+
+    User
+        GIMS supports authentication and access of individual user accounts.
+
+    variable expression
+        Variation in the manner in which a trait is manifested. When there is variable expressivity, the trait may vary in clinical expression from mild to severe. For example, the condition neurofibromatosis type 1 may be mild, presenting with café-au-lait spots only, or may be severe, presenting with neurofibromas and brain tumors.
+
+    variant
+        A genetic variant may refer to: A single-nucleotide polymorphism (SNP), in case it is a common genetic variant. A mutation, in a case where it is a rare genetic variant. A copy-number variation.
+
+    VUS
+    variant of unknown significance
+    variant of uncertain significance
+        A variation in a genetic sequence whose association with disease risk is unknown. Also called unclassified variant, variant of uncertain significance, and variant of unknown significance.
+
+    WES
+    whole-exome sequencing
+        A laboratory process that is used to determine the nucleotide sequence primarily of the exonic (or protein-coding) regions of an individual’s genome and related sequences, representing approximately 1% of the complete DNA sequence.
+
+    WGS
+    whole-genome sequencing
+        A laboratory process that is used to determine nearly all of the approximately 3 billion nucleotides of an individual’s complete DNA sequence, including non-coding sequence.
+
+    X-linked dominant
+        X-linked dominant inheritance refers to genetic conditions associated with mutations in genes on the X chromosome. A single copy of the mutation is enough to cause the disease in both males (who have one X chromosome) and females (who have two X chromosomes). In some conditions, the absence of a functional gene results in the death of affected males.
+
+    X-linked recessive
+        X-linked recessive inheritance refers to genetic conditions associated with mutations in genes on the X chromosome. A male carrying such a mutation will be affected, because he carries only one X chromosome. A female carrying a mutation in one gene, with a normal gene on the other X chromosome, is generally unaffected.
+
+    Z-score
+        A score that indicates how many standard deviations a value is above or below the mean.
