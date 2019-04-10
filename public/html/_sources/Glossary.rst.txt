@@ -7,12 +7,6 @@ Glossary
 .. glossary::
     :sorted:
 
-    21 CFR Part 11
-        Title 21 CFR Part 11 is the part of Title 21 of the Code of Federal Regulations that establishes the United States Food and Drug Administration (FDA) regulations on electronic records and electronic signatures (ERES). Part 11, defines the criteria under which electronic records and electronic signatures are considered trustworthy, reliable, and equivalent to paper records.
-
-    Accreditation
-        Act by which an authoritative body grants a credit or recognition to an institutional body or person competent to carry out specific tasks maintaining guidelines for quality standards.
-
     ACMG
         The American College of Medical Genetics and Genomics (ACMG) is an organization composed of biochemical, clinical, cytogenetic, medical and molecular geneticists, genetic counselors and other health care professionals committed to the practice of medical genetics.
 
