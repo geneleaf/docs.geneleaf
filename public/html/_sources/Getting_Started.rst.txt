@@ -10,7 +10,7 @@ GeneLeaf is a visual editor for family relationshipts, allowing users to rapidly
 Pedigrees
 ============================================
 
-Pedigrees are visual representations of family relationships. These follow a specific set of formatting conventions to represent family information. These include the following key components:
+:term:`Pedigrees<Pedigree>` are visual representations of family relationships. These diagrams follow a specific set of formatting conventions to represent family information. These include the following key components:
 
 * Squares/Circles: used to represent males & females
 * Affected: color (including black) is used to indicate that an individual is affected by a condition.
@@ -18,7 +18,7 @@ Pedigrees are visual representations of family relationships. These follow a spe
 * Sibling relationshipts: represented by horizontal bars above individuals
 * Generation relationshipts (parents/children): represented by vertical bars
 
-.. image:: ../figures/Pedigree_Affected.png
+.. image:: ./figures/Pedigree_Affected.png
     :width: 200 px
     
 
@@ -26,7 +26,7 @@ In the figure above, two cousins members (1 male and 1 female) are affected.
 
 First Steps
 ============================================
-GeneLeaf is designed for usability. Follow the steps below to get started:
+GeneLeaf is designed for ease of usability. Follow the steps below to get started:
 
 * Intro page:
 
@@ -42,8 +42,9 @@ The intro page displays updates and enables users to select their prefered user 
 
 Users can login at any point during their session by clicking the **login** button.
 
-* Drawign Mode:
+* Drawing Mode:
 
 .. image:: ../figures/Tools_Pedigree.png
 
 In drawing mode, users can start drawing pedigrees immiately, either using the functionality through menus or by keyboard shortcuts.
+
