@@ -2,15 +2,11 @@
 Getting Started
 *************************
 
-Introduction
-============================================
-GeneLeaf is a visual editor for family relationshipts, allowing users to rapidly generate and edit visual diagrams of family information, called pedigrees or genograms. GeneLeaf is designed to be flexible and supports multiple modes of interaction, allowing users to work in the way that works best for their needs. This section is provided to enable users to start using the application and topics are covered in greater depth in the user manual.
+GeneLeaf is a visual editor for genomics, allowing users to quickly and intuitively add and update informaiton on family relationships. GeneLeaf is a SaaS application, which users can access securely via the web. A demo version is freely accessible for anyone interested in trying the features of GeneLeaf. We encourage you to start here and then register for an account so that you can save pedigrees for access later.
 
-
-Pedigrees
-============================================
-
-:term:`Pedigrees<Pedigree>` are visual representations of family relationships. These diagrams follow a specific set of formatting conventions to represent family information. These include the following key components:
+Look and female
+==================
+GeneLeaf uses standard conventions to represent the family relationships included in Pedigrees, as in the example below. :term:`Pedigrees<Pedigree>` are visual representations of family relationships. These diagrams follow a specific set of formatting conventions to represent family information. These include the following key components:
 
 * Squares/Circles: used to represent males & females
 * Affected: color (including black) is used to indicate that an individual is affected by a condition.
@@ -18,7 +14,7 @@ Pedigrees
 * Sibling relationshipts: represented by horizontal bars above individuals
 * Generation relationshipts (parents/children): represented by vertical bars
 
-.. image:: ./figures/Pedigree_Affected.png
+.. image:: ../figures/Pedigree_Affected.png
     :width: 200 px
     
 
