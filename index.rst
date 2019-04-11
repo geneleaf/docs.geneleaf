@@ -1,7 +1,7 @@
 .. GeneLeaf documentation master file, created by
 
-Gene Leaf - a visual editor for genomics
-============================================
+`GeneLeaf <https://tst.geneleaf.com/>`_  - a visual editor for genomics
+========================================================================================
 
 Genetics is the study of family relationships which transfer the information that determines the phenotype of each individual in form of discrete hereditary units called genes. The medium in which mosts Geneticists typically work is the pedigree diagram or genogram. In these diagrams, the relationships between individuals are represented through a simplfied set of symbols, related through lines. Gene Leaf enables users to quickly capture information in this form through an intuitive user interface, which supports rapid entry of information. Gene Leaf allows users to work at their own pace and in their own way. A simplified icon set allows users to add information with simple clicks. 
 
