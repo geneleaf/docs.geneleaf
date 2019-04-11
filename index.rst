@@ -9,12 +9,20 @@ This site contains reference information on the application, including quick sta
 
 .. toctree::
     :maxdepth: 2
-    :caption: Contents:
+    :caption: Quick Start Guides:
+    :glob:
+
+    QuickStart/Getting_Started
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Manual:
     :numbered:
     :glob:
 
-    Getting_Started
-    topics/*
+    Manual/*
+
 
 .. toctree::
     :maxdepth: 2
