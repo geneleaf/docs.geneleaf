@@ -99,6 +99,10 @@ html_static_path = ['_static']
 #
 # html_sidebars = {}
 
+html_js_files = [
+    'js/gtag.js',
+]
+
 
 # -- Options for HTMLHelp output ---------------------------------------------
 
