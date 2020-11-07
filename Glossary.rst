@@ -7,15 +7,6 @@ Glossary
 .. glossary::
     :sorted:
 
-    ACMG
-        The American College of Medical Genetics and Genomics (ACMG) is an organization composed of biochemical, clinical, cytogenetic, medical and molecular geneticists, genetic counselors and other health care professionals committed to the practice of medical genetics.
-
-    ACMG Secondary Findings
-        A set of 56 genes in which substantial clinical evidence indicates that pathogenic variants result in a high likelihood of severe disease that is preventable if identified before symptoms occur.
-
-        - **ACMG sencondary findings opt-in** indicates that a patient has expressed a preference to be informed of findings of pathogenic variants.
-        - The related ACMG policy statement can be found here https://www.acmg.net/docs/gim2014151a.pdf
-
     allele
         One of two or more DNA sequences occurring at a particular gene locus. Typically one allele (“normal” DNA sequence) is common, and other alleles (mutations) are rare.
 
@@ -30,12 +21,6 @@ Glossary
 
     Ashkenazi
         One of two major ancestral groups of Jewish individuals, comprised of those whose ancestors lived in Central and Eastern Europe (e.g., Germany, Poland, Russia). The other group is designated Sephardic Jews and includes those whose ancestors lived in North Africa, the Middle East, and Spain. Most Jews living in the United States are of Ashkenazi descent.
-
-    Audit
-        Systematic, independent and documented verification process of LIMS sample data.
-
-    Audit Trail
-        Audit trails are documented evidences to series of activities occurring at any given point of time, specific operation or event ever since they are first recorded. As part of 21 Code of Federal Regulations Part 11 (21 CFR Part 11), it's a mandate for diagnostics, biobanks and CROs to preserve their records in chronological order for traceability purposes. Information recorded in the audit trail typically includes operator code, case number, amount and quantity prior to change, notes etc.
 
     autosomal
         Refers to any of the chromosomes numbered 1-22 or the genes on chromosomes 1-22. This term excludes the sex-determining chromosomes, X and Y.
@@ -61,7 +46,6 @@ Glossary
     carrier frequency
     carrier rate
         The proportion of individuals in a population who have a single copy of a specific recessive gene mutation; also sometimes applied to the prevalence of mutations in dominantly acting genes such as BRCA1 and BRCA2. Also called carrier rate.
-
 
     chromosome
         Discrete physical structures inside a cell nucleus that consist of proteins and DNA organized into genes.
@@ -99,9 +83,6 @@ Glossary
     constitutional DNA
         Constitutional DNA refers to tissue derived from reproductive cells (egg or sperm) that become incorporated into the DNA of every cell in the body of the offspring. A germline mutation may be passed from parent to offspring. Also called germline DNA.
 
-    consultand
-        An individual who presents for genetic counseling. Also called counselee.
-
     Container
         A GIMS container is a laboratory container (e.g., a tube or plate), which
         contains one or more samples.
@@ -111,20 +92,6 @@ Glossary
 
     counselee
         An individual who presents for genetic counseling. Also called consultand.
-
-    Crohn-like reaction
-    Crohn disease-like reaction
-        Discrete aggregates of lymphoid white blood cells, some with germinal centers and surrounding fibrosis, commonly found around some colorectal adenocarcinomas in the absence of a clinical or pathological diagnosis of Crohn disease. Also called Crohn disease-like reaction.
-
-    CSGE
-    conformation-sensitive gel electrophoresis
-        A type of mutation testing in which a segment of DNA is screened for mismatched pairing between normal and mutated base pairs. Also called conformation-sensitive gel electrophoresis.
-
-    cutaneous leiomyoma
-        A benign tumor that arises from smooth muscle tissue in a hair follicle, forming a papule. Cutaneous leiomyomas (or leiomyomata) can be painful in the presence of cold or tactile stimuli.
-
-    cutaneous lichen amyloidosis
-        Itchy papules that are brownish-red in color and typically appear on the shins, thighs, feet, or neck.
 
     cytogenetics
         The study of the structure, function, and abnormalities of human chromosomes.
@@ -142,9 +109,6 @@ Glossary
     depth of coverage
         Refers to the number of times a nucleotide is read during sequencing. A greater depth of coverage can increase confidence in the final results. Deep coverage aids in differentiating sequencing errors from single nucleotide polymorphisms. This can be specifically useful when a patient has a mosaicism or when a tumor is heterogeneous for a mutation.
 
-    dirty necrosis
-        Presence of necrotic cellular debris within the lumen of the neoplastic glands in the colorectal mucosa.
-
     disease-causing mutation
         A genetic alteration that increases an individual’s susceptibility or predisposition to a certain disease or disorder. When such a variant (or mutation) is inherited, development of symptoms is more likely, but not certain. Also called deleterious mutation, pathogenic variant, predisposing mutation, and susceptibility gene.
 
@@ -157,17 +121,6 @@ Glossary
 
     double heterozygosity
         The presence of two different mutated alleles at two separate genetic loci.
-
-    Electronic Health Record
-    EHR
-        An electronic health record (EHR) is a digital version of a patient's paper chart. EHRs are real-time, patient-centered records that make information available instantly and securely to authorized users.
-
-    Electronic Medical Record
-    EMR
-        An electronic medical record (EMR), is the systematized collection of patient and population electronically-stored health information in a digital format. These records can be shared across different health care settings.
-
-    Epic
-        The Epic EMR system
 
     epigenetics
         The study of heritable changes that do not affect the DNA sequence but influence gene expression.
@@ -209,12 +162,6 @@ Glossary
     first-degree relative
         The parents, siblings, or children of an individual. Also called first-degree relative.
 
-    fibrofolliculoma
-        A benign tumor of the hair follicle that appears as a small, whitish papule. Fibrofolliculomas are typically found on the face, ears, neck, and upper torso. They are pathognomonic for Birt-Hogg-Dubé syndrome, a hereditary condition associated with the development of kidney cancer.
-
-    Fingerprinting
-        Fingerprinting refers to the Fluidigm-based sample identification assays used to verify the identity of samples throughout the genomic testing and analysis testing process, based on the attributes of a set of unique genomic regions, analyzed in each individual. The unique genomic regions used in this assay are highly variable, yet nominally repetitive, making them compatible with NGS technology. This assay is distinct from STR-based identification systems such as CODIS.
-
     FISH
     fluorescence in situ hybridization
         A technique used to identify the presence of specific chromosomes or chromosomal regions through hybridization (attachment) of fluorescently-labeled DNA probes to denatured chromosomal DNA. Examination through a microscope under fluorescent lighting detects the presence of the colored hybridized signal (and hence presence of the chromosome material) or absence of the hybridized signal (and hence absence of the chromosome material). Also called fluorescence in situ hybridization.
@@ -252,9 +199,6 @@ Glossary
     genetic variant
         An alteration in the most common DNA nucleotide sequence. The term variant can be used to describe an alteration that may be benign, pathogenic, or of unknown significance. The term variant is increasingly being used in place of the term mutation.
 
-    genodermatosis
-        An inherited syndrome that includes a dermatological (skin) phenotype.
-
     GWAS
     genome-wide association study
         A genome-wide association study (GWAS) is a way for scientists to identify inherited genetic variants associated with risk of disease or a particular trait. This method surveys the entire genome for genetic polymorphisms, typically single nucleotide polymorphisms (SNPs) (pronounced “snips”), that occur more frequently in cases (people with the disease or trait being assessed) than in controls (people without the disease or trait). Also called GWAS.
@@ -273,9 +217,6 @@ Glossary
 
     germline variant
         A gene change in a reproductive cell (egg or sperm) that becomes incorporated into the DNA of every cell in the body of the offspring. A variant contained within the germline can be passed from parent to offspring, and is, therefore, hereditary.
-
-    GIMS
-        The Genomic Information Management System
 
     haploinsufficiency
         The situation that occurs when one copy of a gene is inactivated or deleted and the remaining functional copy of the gene is not adequate to produce the needed gene product to preserve normal function.
@@ -302,22 +243,8 @@ Glossary
     heterozygous genotype
         Occurs when the two alleles at a particular gene locus are different. A heterozygous genotype may include one normal allele and one mutation, or two different mutations. The latter is called a compound heterozygote.
 
-    HIPAA
-        The Health Insurance Portability and Accountability Act of 1996 (HIPAA)
-
-        - `HHS HIPAA Information Page <https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html>`_
-
-    HITECH
-        The Health Information Technology for Economic and Clinical Health (HITECH) Act
-
-        - `HHS HITECH Information Page <https://www.hhs.gov/hipaa/for-professionals/special-topics/HITECH-act-enforcement-interim-final-rule/index.html>`_
-
     homozygous genotype
         Occurs when both alleles at a particular gene locus are the same. A person may be homozygous for the normal allele or for a mutation.
-
-    inconclusive
-    indeterminate
-        A negative test result in an individual where a clearly deleterious mutation has not been found in any family members. The genetic risk status of such an individual must be interpreted in the context of his or her personal and family history. Also called indeterminate and uninformative.
 
     index case
         A clinically affected individual through whom attention is first drawn to a genetic disorder in a family.
@@ -349,15 +276,8 @@ Glossary
     LD
         Where alleles (DNA markers) occur together more often than can be accounted for by chance because of their physical proximity on a chromosome. Also called linkage disequilibrium.
 
-    LEEP
-        Loom enhanced exome pipeline
-
-    LIS
     linkage disequilibrium
         Laboratory Information System - a system used for tracking and storing laboratory sample information (the term LIS is generally used in clinical contexts, whereas the term LIMS may be used in clinical or non-clinical contexts)
-
-    LIMS
-        Laboratory Information Management System - a system for tracking and storing laboratory sample information (the term LIS is generally used in clinical contexts, whereas the term LIMS may be used in clinical or non-clinical contexts)
 
     linkage
         The tendency for genes or segments of DNA closely positioned along a chromosome to segregate together at meiosis, and therefore be inherited together.
@@ -370,22 +290,6 @@ Glossary
 
     locus heterogeneity
         The same phenotype is caused by mutations in genes at different chromosomal loci.
-
-    LOD score
-    logarithm of the odds score
-        A statistical estimate of whether two genetic loci are physically near enough to each other (or "linked") on a particular chromosome that they are likely to be inherited together. A LOD score of 3 or higher is generally understood to mean that two genes are located close to each other on the chromosome. In terms of significance, a LOD score of 3 means the odds are 1,000:1 that the two genes are linked and therefore inherited together. Also called logarithm of the odds score.
-
-    LOH
-    loss of heterozygosity
-        If there is one normal and one abnormal allele at a particular locus, as might be seen in an inherited autosomal dominant cancer susceptibility disorder, loss of the normal allele produces a locus with no normal function. When the loss of heterozygosity involves the normal allele, it creates a cell that is more likely to show malignant growth if the altered gene is a tumor suppressor gene. Also called loss of heterozygosity.
-
-    Loom
-        Bioinformatics workflow engine, maintained here:
-
-        - `Loom <https://github.com/StanfordBioinformatics/loom>`_
-
-    massively parallel sequencing
-        A high-throughput method used to determine a portion of the nucleotide sequence of an individual’s genome. This technique utilizes DNA sequencing technologies that are capable of processing multiple DNA sequences in parallel. Also called next-generation sequencing and NGS.
 
     microsatellite
         Repetitive segments of DNA scattered throughout the genome in noncoding regions between genes or within genes (introns). They are often used as markers for linkage analysis because of their naturally occurring high variability in repeat number between individuals. These regions are inherently genetically unstable and susceptible to mutations.
@@ -410,9 +314,6 @@ Glossary
 
     mosaicism
         The occurrence of 2 or more cell lines with different genetic or chromosomal make-up, within a single individual or tissue.
-
-    MRN
-        Medical Record Number
 
     MSI
         A characteristic of cells that contain an abnormality in DNA mismatch repair (see microsatellite). For example, the presence of MSI in colorectal tumor tissue may be used as a marker for germline mutations in one of the DNA mismatch repair genes associated with HNPCC. MSI can also occur sporadically, and in these cases is related to gene hypermethylation. This is an issue in the differential diagnosis of HNPCC. Also called microsatellite instability.
@@ -487,11 +388,6 @@ Glossary
     nutrigenomics
         The study of the interaction of dietary and genetic factors and its effect on metabolism, health status, and risk of disease.
 
-    Order
-        A GIMS order is the record of a test formally requested from the CGS. Order types may include the following:
-        * Proband-only - an order consisting of a proband (patient)
-        * Trio - an order consisting of a proband (patient) and that patient's parents.
-
     pathogenic variant
         A genetic alteration that increases an individual’s susceptibility or predisposition to a certain disease or disorder. When such a variant (or mutation) is inherited, development of symptoms is more likely, but not certain. Also called deleterious mutation, disease-causing mutation, predisposing mutation, and susceptibility gene.
 
@@ -556,10 +452,6 @@ Glossary
 
     pseudogene
         A DNA sequence that resembles a gene but has been mutated into an inactive form over the course of evolution. It often lacks introns and other essential DNA sequences necessary for function. Though genetically similar to the original functional gene, pseudogenes do not result in functional proteins, although some may have regulatory effects.
-
-    Qubit
-        Qubit is a measurement system which uses a fluorescent intercolating dye to specifically detect and measure DNA and RNA.
-        `Qubit manufacturer's information site <https://www.thermofisher.com/us/en/home/industrial/spectroscopy-elemental-isotope-analysis/molecular-spectroscopy/fluorometers/qubit.html>`_
 
     recurrence risk
         In genetics, the likelihood that a hereditary trait or disorder present in one family member will occur again in other family members. This is distinguished from recurrence risk for cancer, which is the chance that a cancer that has been treated will recur.
@@ -697,9 +589,6 @@ Glossary
 
     uninformative
         A negative test result in an individual where a clearly deleterious mutation has not been found in any family members. The genetic risk status of such an individual must be interpreted in the context of his or her personal and family history. Also called inconclusive and indeterminate.
-
-    User
-        GIMS supports authentication and access of individual user accounts.
 
     variable expression
         Variation in the manner in which a trait is manifested. When there is variable expressivity, the trait may vary in clinical expression from mild to severe. For example, the condition neurofibromatosis type 1 may be mild, presenting with café-au-lait spots only, or may be severe, presenting with neurofibromas and brain tumors.
