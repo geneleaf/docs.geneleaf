@@ -8,11 +8,11 @@ Pedigree diagrams are a standard visual format for family histories. They enable
 This site contains reference information on the application, including quick start guides designed to get you up and running as well as an in-depth manual to provide information on advanced topics.
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     :caption: Quick Start Guides:
     :glob:
 
-    QuickStart/Getting_Started
+    QuickStart/*
 
 
 .. toctree::

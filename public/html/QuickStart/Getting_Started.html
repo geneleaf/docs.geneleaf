@@ -62,6 +62,10 @@
           
             
             
+              <div class="version">
+                1
+              </div>
+            
           
 
           
@@ -88,23 +92,16 @@
 <ul class="current">
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Getting Started</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#input-modes">Input Modes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#your-first-pedigree">Your First Pedigree</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#learning-more">Learning More</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#pedigree-symbol-reference">Pedigree Symbol Reference:</a></li>
 </ul>
 </li>
 </ul>
 <p class="caption"><span class="caption-text">Manual:</span></p>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="../Manual/010-Introduction.html">1. Introduction</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Manual/030-Pedigrees.html">2. Pedigree Canvas</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Manual/035-Modes.html">3. Modes</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Manual/040-Menus.html">4. Menus</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Manual/050-Toolbars.html">5. Toolbars</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Manual/060-KeyboardCommands.html">6. Keyboard Commands</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Manual/070-DataFormat.html">7. Data Format</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Manual/080-ImportExport.html">8. Import and Export</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Manual/090-DataAnalysis.html">9. Data Analysis</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Manual/Data_Model.html">10. Data Model</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Manual/Keyboard_Shortcuts.html">11. Keyboard Shortcuts</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Manual/Keyboard_Shortcuts.html">2. Keyboard Shortcuts</a></li>
 </ul>
 <p class="caption"><span class="caption-text">Release Notes:</span></p>
 <ul>
@@ -178,25 +175,116 @@
             
   <div class="section" id="getting-started">
 <h1>Getting Started<a class="headerlink" href="#getting-started" title="Permalink to this headline">¶</a></h1>
-<p><a class="reference external" href="https://tst.geneleaf.com/">GeneLeaf</a>  is a visual editor for genomics, allowing users to quickly and intuitively add and update information on family relationships in the form of Pedigree or Genogram diagrams. GeneLeaf is a SaaS application, which users can access securely via the web, but supports offline storage of pedigree files in a proprietary format (.glf) as well as interoperability with other common pedigree file formats as well as common image formats (.svg, .png and .svg).</p>
-<p><a class="reference external" href="https://tst.geneleaf.com/">GeneLeaf</a>  uses standard conventions to represent the family relationships included in Pedigrees, as in the example below. <a class="reference internal" href="../Glossary.html#term-pedigree"><span class="xref std std-term">Pedigrees</span></a> are visual representations of family relationships. These diagrams follow a specific set of formatting conventions to represent family information. These include the following key components:</p>
+<p><a class="reference external" href="https://www.geneleaf.com/">GeneLeaf</a>  is a visual editor for genomics, allowing users to quickly and intuitively add and update information on family relationships in the form of Pedigree or Genogram diagrams. GeneLeaf is a SaaS application, which users can access securely via the web, but supports offline storage of pedigree files in a proprietary format (.glf) as well as interoperability with other common pedigree file formats as well as common image formats (.svg, .png and .svg).</p>
+<p><a class="reference external" href="https://www.geneleaf.com/">GeneLeaf</a>  uses standard conventions to represent the family relationships included in Pedigrees, as in the example below. <a class="reference internal" href="../Glossary.html#term-pedigree"><span class="xref std std-term">Pedigrees</span></a> are visual representations of family relationships. These diagrams follow a specific set of formatting conventions to represent family information. These include the following key components:</p>
 <ul class="simple">
 <li><p>Squares/Circles: used to represent males &amp; females</p></li>
 <li><p>Affected: color (including black) is used to indicate that an individual is affected by a condition.</p></li>
 <li><p>Spousal relationships: represented by horizontal bars between individuals</p></li>
-<li><p>Sibling relationshipts: represented by horizontal bars above individuals</p></li>
-<li><p>Generation relationshipts (parents/children): represented by vertical bars</p></li>
+<li><p>Sibling relationships: represented by horizontal bars above individuals</p></li>
+<li><p>Generation relationships (parents/children): represented by vertical bars</p></li>
 </ul>
-<a class="reference internal image-reference" href="../_images/Pedigree_Affected1.png"><img alt="../_images/Pedigree_Affected1.png" src="../_images/Pedigree_Affected1.png" style="width: 200px;" /></a>
+<a class="reference internal image-reference" href="../_images/Pedigree_Affected.png"><img alt="../_images/Pedigree_Affected.png" src="../_images/Pedigree_Affected.png" style="width: 100px;" /></a>
 <p>In the figure above, two cousins members (1 male and 1 female) are affected.</p>
 <div class="section" id="input-modes">
 <h2>Input Modes<a class="headerlink" href="#input-modes" title="Permalink to this headline">¶</a></h2>
-<p><a class="reference external" href="https://tst.geneleaf.com/">GeneLeaf</a>  is designed for ease of use, including intuitive data input modes, including:</p>
+<p><a class="reference external" href="https://www.geneleaf.com/">GeneLeaf</a>  is designed for ease of use, including intuitive data input modes, including:</p>
 <ul class="simple">
-<li><p>Drawing Pallet - click on any of the icons in the drawing pallet and then click on the drawing area to draw that item.</p></li>
-<li><p>Menus - use menus to navigate to the task you wish to execute.</p></li>
-<li><p>Keyboard shortcuts - keyboard shortcuts enable you to quicly execute standard tasks.</p></li>
+<li><p><strong>Drawing Pallet</strong> - click on any of the icons in the drawing pallet and then click on the drawing area to draw that item.</p></li>
+<li><p><strong>Menus</strong> - use menus to navigate to the task you wish to execute.</p></li>
+<li><p><strong>Keyboard shortcuts</strong> - keyboard shortcuts enable you to quickly execute standard tasks.</p></li>
+<li><dl class="simple">
+<dt><strong>Triggers</strong> - Each pedigree symbol can be selected by clicking on it. This will cause four triggers to be displayed. Clicking each of these triggers will result in the following actions:</dt><dd><ul>
+<li><p>North - add parent</p></li>
+<li><p>South - add child</p></li>
+<li><p>East - add spouse</p></li>
+<li><p>West - add sibling</p></li>
 </ul>
+</dd>
+</dl>
+</li>
+</ul>
+</div>
+<div class="section" id="your-first-pedigree">
+<h2>Your First Pedigree<a class="headerlink" href="#your-first-pedigree" title="Permalink to this headline">¶</a></h2>
+<p>After following these simple steps, you will have created a simple pedigree as well as having mastered the basic concepts of pedigree drawing with GeneLeaf. Start by opening the <a class="reference external" href="https://pedigree.geneleaf.com">GeneLeaf App</a> . You will be presented with a screen similar to the following:</p>
+<a class="reference internal image-reference" href="../_images/1_GeneLeaf_Screen1.png"><img alt="../_images/1_GeneLeaf_Screen1.png" src="../_images/1_GeneLeaf_Screen1.png" style="width: 600px;" /></a>
+<ol class="arabic simple">
+<li><p><strong>Create Individual:</strong> To draw your first individual, double click on the drawing canvas. This will create an individual at the spot where you click and select that individual (showing the 4 blue triggers), opening its properties in the dialog on the right. Here, we should note:</p></li>
+</ol>
+<blockquote>
+<div><ul class="simple">
+<li><p>Double clicking the canvas is one way to create individuals. However, you could also have clicked on the <strong>new</strong> button under the draw panel on the left.</p></li>
+<li><p>Selecting an individual will show the 4 blue triggers and display the selection’s properties in the panel on the right.</p></li>
+</ul>
+</div></blockquote>
+<a class="reference internal image-reference" href="../_images/GL_OneIndividual.png"><img alt="../_images/GL_OneIndividual.png" src="../_images/GL_OneIndividual.png" style="width: 600px;" /></a>
+<ol class="arabic simple" start="2">
+<li><p><strong>Add Spouse:</strong> Let’s add a spouse to this individual. The simplest way to do this is to click on the button labelled ‘spouse’ in the Draw panel on the left. This will add one spouse to this individual</p></li>
+</ol>
+<blockquote>
+<div><ul class="simple">
+<li><p>Another way to add a spouse is by clicking the <strong>East Trigger</strong>, on the right of that individual.</p></li>
+<li><p>attempting to add additional spouses is not allowed and will not result in any action.</p></li>
+<li><p>The new spouse’s sex is automatically set to the opposite of the current spouse. However, this is done for your convenience and may be manually changed.</p></li>
+</ul>
+</div></blockquote>
+<a class="reference internal image-reference" href="../_images/GL_Spouse.png"><img alt="../_images/GL_Spouse.png" src="../_images/GL_Spouse.png" style="width: 600px;" /></a>
+<ol class="arabic simple" start="3">
+<li><p><strong>Add Child:</strong> Let’s add a child to this couple. The simplest way to do this is to click on either parent (selecting them) and then click on the button labelled ‘child’ in the Draw panel on the left. This will add one child to this couple. Clicking on this again will add additional children.</p></li>
+</ol>
+<blockquote>
+<div><ul class="simple">
+<li><p>Another way to do this is to click on the <strong>South Trigger</strong>, at the bottom of either parent.</p></li>
+<li><p>Clicking the trigger additional times will add more children.</p></li>
+</ul>
+</div></blockquote>
+<a class="reference internal image-reference" href="../_images/GL_Child.png"><img alt="../_images/GL_Child.png" src="../_images/GL_Child.png" style="width: 600px;" /></a>
+<ol class="arabic simple" start="4">
+<li><p><strong>Edit Individual Properties:</strong> Now that we have created our basic family, let’s edit the information of each individual. Start by selecting the first individual you added by clicking on his symbol. This will open the selection panel on the right of the drawing panel. Here you may edit any of the individual’s attributes including name, date of birth, sex, etc.</p></li>
+</ol>
+<blockquote>
+<div><ul class="simple">
+<li><p><strong>ID:</strong> Each individual is assigned a non-editable ID upon creation. This is displayed in non-editable form.</p></li>
+<li><p><strong>RN(Record Number):</strong> This is a custom record number which may be edited.</p></li>
+<li><p><strong>Category:</strong> This is the general category to which an individual belongs, and includes special symbol categories such as pregnancy, miscarriage, stillbirth, infertility</p></li>
+<li><p><strong>Sex:</strong> Selecting male, female or other results in the corresponding representation of the individual on the pedigree.</p></li>
+<li><p><strong>Attributes:</strong> These include standard attributes commonly represented in pedigree diagrams, including proband an deceased.</p></li>
+</ul>
+</div></blockquote>
+<a class="reference internal image-reference" href="../_images/GL_Edit_Individual.png"><img alt="../_images/GL_Edit_Individual.png" src="../_images/GL_Edit_Individual.png" style="width: 600px;" /></a>
+<ol class="arabic simple" start="5">
+<li><p><strong>Add custom data fields:</strong> Let’s add a custom data field to this individual. First, select the slider next to <strong>Basic</strong> mode to switch it to <strong>Advanced</strong> mode. This will display the custom data fields below. Since no data fields have been added, click the button labelled <strong>+Add Field</strong> to add a new field. Let’s add a field for eyes. Let’s set this individual’s value to ‘blue’ (i.e., blue eyes).</p></li>
+</ol>
+<a class="reference internal image-reference" href="../_images/GL_blue_eyes.png"><img alt="../_images/GL_blue_eyes.png" src="../_images/GL_blue_eyes.png" style="width: 400px;" /></a>
+<p>6. <strong>Add custom formatting rule:</strong> Let’s add a custom formatting rule so that when individuals have data field values that match our criteria, they will be displayed to reflect this.
+* 6.1 In the left panel, click the tab labelled <strong>Rules</strong>.
+* 6.2 Click the button labelled <strong>+Add Formatting Rule</strong>. This will open a dialog box.
+* 6.3 Edit the values in the dialog box so that it includes the following:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p><strong>Action:</strong> UL <em>this will color the Upper Left corner of the symbol</em></p></li>
+<li><p><strong>Color:</strong> Select the color you want to show.</p></li>
+<li><p><strong>Key:</strong> Select the attribute or data key that you wish to evaluate. Select the field key <strong>eyes</strong> which you just entered.</p></li>
+<li><p><strong>Logic:</strong> Select the operator <strong>Equal</strong>, so that the effect will be applied when the key equals the criteria you specify.</p></li>
+<li><p><strong>Criteria</strong> Enter the value <strong>blue</strong>, so that the effect will be applied when <strong>eyes</strong> equal <strong>blue</strong></p></li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li><p>6.4 Your rule should look like this:</p></li>
+</ul>
+<a class="reference internal image-reference" href="../_images/GL_Edit_Rule.png"><img alt="../_images/GL_Edit_Rule.png" src="../_images/GL_Edit_Rule.png" style="width: 300px;" /></a>
+<ul class="simple">
+<li><p>Click the button <strong>Update Rule</strong> to apply your settings. Your pedigree should look like this:</p></li>
+</ul>
+<a class="reference internal image-reference" href="../_images/GL_Trio_Blue_Eyes.png"><img alt="../_images/GL_Trio_Blue_Eyes.png" src="../_images/GL_Trio_Blue_Eyes.png" style="width: 200px;" /></a>
+<p>7. <strong>Save File:</strong> Let’s save your pedigree as a GeneLeaf file. Click the file menu and select <strong>Save as GeneLeaf file (.glf)</strong>. Select the location where you wish to save the file on your desktop.
+* You may also save the file as an image file (svg, png or pdf).</p>
+<a class="reference internal image-reference" href="../_images/GL_File_Save_As.png"><img alt="../_images/GL_File_Save_As.png" src="../_images/GL_File_Save_As.png" style="width: 300px;" /></a>
+<ol class="arabic simple" start="8">
+<li><p><strong>Open File:</strong> Let’s try opening the file you just saved. First, <strong>refresh your browser</strong> to clear the workspace. Next, click the file menu and select <a href="#id3"><span class="problematic" id="id4">**</span></a>Open GeneLeaf file (.glf). Select the file you saved above. You should see the same pedigree in your browser.</p></li>
+</ol>
+<a class="reference internal image-reference" href="../_images/GL_Loaded_Pedigree.png"><img alt="../_images/GL_Loaded_Pedigree.png" src="../_images/GL_Loaded_Pedigree.png" style="width: 300px;" /></a>
 </div>
 <div class="section" id="learning-more">
 <h2>Learning More<a class="headerlink" href="#learning-more" title="Permalink to this headline">¶</a></h2>
@@ -204,6 +292,11 @@
 <li><p><a class="reference external" href="https://groups.google.com/g/geneleaf">GeneLeaf Community</a> - join the Geneleaf community.</p></li>
 <li><p><a class="reference external" href="mailto:contact&#37;&#52;&#48;geneleaf&#46;com">Contact us</a> - email us your questions.</p></li>
 </ul>
+</div>
+<div class="section" id="pedigree-symbol-reference">
+<h2>Pedigree Symbol Reference:<a class="headerlink" href="#pedigree-symbol-reference" title="Permalink to this headline">¶</a></h2>
+<p>GeneLeaf follows widely-supported conventions for Pedigrees, as summarized in the reference sheet below.</p>
+<a class="reference external image-reference" href="../_images/pedigree_symbols.png"><img alt="../_images/pedigree_symbols.png" src="../_images/pedigree_symbols.png" style="width: 200px;" /></a>
 </div>
 </div>
 
@@ -228,7 +321,7 @@
   <div role="contentinfo">
     <p>
         
-        &copy; Copyright 2019, Steve Ayers
+        &copy; Copyright 2020, Steve Ayers
 
     </p>
   </div>

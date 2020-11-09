@@ -20,11 +20,11 @@
 # -- Project information -----------------------------------------------------
 
 project = 'GeneLeaf'
-copyright = '2019, Steve Ayers'
+copyright = '2020, Steve Ayers'
 author = 'Steve Ayers'
 
 # The short X.Y version
-version = ''
+version = '1'
 # The full version, including alpha/beta/rc tags
 release = '1'
 

@@ -8,13 +8,11 @@ GeneLeaf allows users to quickly update family information. Use the keyborad sho
 ============ ========================
 Key	          Action
 ============ ========================
-Spacebar	  Create Individual
 p	          Create Parent
 s	          Create Sibling
 c	          Create Child
 m	          Create Spouse
-Arrows	      Move
 -/+	          Zoom
-Enter	      Edit Individual
-x/y	          Change Sex
+PgUp/PgDn     Pan Vertical
+Home/End      Pan Horizontal
 ============ ========================
