@@ -20,7 +20,8 @@ In the figure above, two cousins members (1 male and 1 female) are affected.
 
 Input Modes
 ============================================
-GeneLeaf is designed for ease of use, including intuitive data input modes, including:
+`GeneLeaf <https://tst.geneleaf.com/>`_  is designed for ease of use, including intuitive data input modes, including:
+
 * Drawing Pallet - click on any of the icons in the drawing pallet and then click on the drawing area to draw that item.
 * Menus - use menus to navigate to the task you wish to execute.
 * Keyboard shortcuts - keyboard shortcuts enable you to quicly execute standard tasks.
