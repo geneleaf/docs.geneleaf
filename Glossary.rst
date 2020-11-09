@@ -19,9 +19,6 @@ Glossary
     aneuploidy
         The occurrence of one or more extra or missing chromosomes leading to an unbalanced chromosome complement, or any chromosome number that is not an exact multiple of the haploid number (which is 23).
 
-    Ashkenazi
-        One of two major ancestral groups of Jewish individuals, comprised of those whose ancestors lived in Central and Eastern Europe (e.g., Germany, Poland, Russia). The other group is designated Sephardic Jews and includes those whose ancestors lived in North Africa, the Middle East, and Spain. Most Jews living in the United States are of Ashkenazi descent.
-
     autosomal
         Refers to any of the chromosomes numbered 1-22 or the genes on chromosomes 1-22. This term excludes the sex-determining chromosomes, X and Y.
 
@@ -50,9 +47,6 @@ Glossary
     chromosome
         Discrete physical structures inside a cell nucleus that consist of proteins and DNA organized into genes.
 
-    Clinical Genomics Service
-        The clinical genomics service (CGS) is a testing service established by SHC, SCH and the Stanford School of Medicine to provide diagnostic genetic testing for patients with heretibale disorders of indeterminate cause, based on genomic testing (e.g., exome sequencing, whole genome sequencing).
-
     clone
         An identical copy of a DNA sequence or entire gene; one or more cells derived from and identical to a single ancestor cell OR to isolate a gene or specific sequence of DNA.
 
@@ -77,9 +71,6 @@ Glossary
     consanguinity
         Genetic relatedness between individuals who are descendants of at least one common ancestor.
 
-    consent process
-        A process of information exchange between a clinician and an individual or their legal proxy designed to facilitate autonomous, informed decision making. The informed consent process for genetic testing should include an explanation of the medical and psychosocial risks, benefits, limitations, and potential implications of genetic analysis, a discussion of privacy, confidentiality, the documentation and handling of genetic test results, as well as options for managing the hereditary disease risk. Also called informed consent.
-
     constitutional DNA
         Constitutional DNA refers to tissue derived from reproductive cells (egg or sperm) that become incorporated into the DNA of every cell in the body of the offspring. A germline mutation may be passed from parent to offspring. Also called germline DNA.
 
@@ -89,9 +80,6 @@ Glossary
 
     cosegregation
         The transmission, together, of 2 or more genes on the same chromosome, as a result of their being in very close physical proximity to one another (i.e., linked).
-
-    counselee
-        An individual who presents for genetic counseling. Also called consultand.
 
     cytogenetics
         The study of the structure, function, and abnormalities of human chromosomes.
@@ -180,9 +168,6 @@ Glossary
     genetic anticipation
         A phenomenon in which the signs and symptoms of some genetic conditions tend to become more severe and/or appear at an earlier age as the disorder is passed from one generation to the next. Huntington disease is an example of a genetic disorder in which the biological mechanism for this phenomenon has been well documented. In other cases, it may be due to factors such as increased surveillance or other nongenetic causes.
 
-    genetic counseling
-        A communication process that seeks to assist affected or at-risk individuals and families in understanding the natural history, disease risks, and mode of transmission of a genetic disorder; to facilitate informed consent for genetic testing when appropriate; to discuss options for risk management and family planning; and to provide for or refer individuals for psychosocial support as needed.
-
     genetic heterogeneity
         The production of the same or similar phenotypes (observed biochemical, physiological, and morphological characteristics of a person determined by his/her genotype) by different genetic mechanisms. There are two types: (1) allelic heterogeneity – when different alleles at a locus can produce variable expression of a condition; and (2) locus heterogeneity – the term used to describe disease in which mutations at different loci can produce the same disease phenotype.
 
@@ -251,9 +236,6 @@ Glossary
 
     informative
         In genetic testing, a test result that reveals definitively the presence or absence of the germline genetic alteration associated with the hereditary disorder being assessed. In linkage analysis, the ability to distinguish between maternally inherited and paternally inherited DNA markers (polymorphisms) within or near a given gene of interest.
-
-    informed consent
-        A process of information exchange between a clinician and an individual or their legal proxy designed to facilitate autonomous, informed decision making. The informed consent process for genetic testing should include an explanation of the medical and psychosocial risks, benefits, limitations, and potential implications of genetic analysis, a discussion of privacy, confidentiality, the documentation and handling of genetic test results, as well as options for managing the hereditary disease risk. Also called consent process.
 
     inherited cancer syndrome
         Describes the clinical manifestations associated with a mutation conferring cancer susceptibility.
@@ -348,9 +330,6 @@ Glossary
     new variant
         A genetic alteration that is present for the first time in one family member as a result of a variant (or mutation) in a germ cell (egg or sperm) of one of the parents, or a variant that arises in the fertilized egg itself during early embryogenesis. Also called de novo mutation, de novo variant, and new mutation.
 
-    next-generation sequencing
-        A high-throughput method used to determine a portion of the nucleotide sequence of an individual’s genome. This technique utilizes DNA sequencing technologies that are capable of processing multiple DNA sequences in parallel. Also called massively parallel sequencing and NGS.
-
     NGS
     next generation sequencing
         A high-throughput method used to determine a portion of the nucleotide sequence of an individual’s genome. This technique utilizes DNA sequencing technologies that are capable of processing multiple DNA sequences in parallel. Also called massively parallel sequencing and next-generation sequencing.
@@ -358,23 +337,16 @@ Glossary
     noncarrier
         An individual who does not carry a mutation previously identified in his or her family.
 
-    noninferiority study
-        A research study that is designed to determine whether one intervention is not worse than another control intervention by a predetermined margin. An intervention that yields outcomes which are equivalent to or better than the control intervention is considered not inferior to the control intervention. Noninferiority studies are often conducted to examine whether a new, experimental treatment is not worse than an established standard of care.
-
     nonpenetrance
         The state in which a genetic trait, although present in the appropriate genotype, fails to manifest itself in the phenotype (e.g., a woman with a BRCA1 mutation who lives to be elderly and never develops breast or ovarian cancer).
 
     nonsense mutation
+    nonsense variant
         A genetic alteration that causes the premature termination of a protein. The altered protein may be partially or completely inactivated, resulting in a change or loss of protein function. Also called nonsense variant.
 
-    nonsense variant
-        A genetic alteration that causes the premature termination of a protein. The altered protein may be partially or completely inactivated, resulting in a change or loss of protein function. Also called nonsense mutation.
-
     novel mutation
-        A newly discovered, distinct genetic alteration; NOT the same as new or de novo variant (or mutation). Also called novel variant.
-
     novel variant
-        A newly discovered, distinct genetic alteration; NOT the same as new or de novo variant (or mutation). Also called novel mutation.
+        A newly discovered, distinct genetic alteration; NOT the same as new or de novo variant (or mutation). Also called novel variant.
 
     NPV
         The likelihood that an individual with a negative test result is truly unaffected and/or does not have the particular gene mutation in question. Also called negative predictive value.
@@ -397,6 +369,7 @@ Glossary
     Patient
         A GIMS patient is an individual with a record in the Epic EMR system. Patients may include an individual undergoing testing by the CGS (i.e., the proband) as well as individuals not undergoing testing by the CGS (ie., the proband's relatives), as well as any other service.
 
+    polymerase chain reaction
     PCR
         A procedure that produces millions of copies of a short segment of DNA through repeated cycles of: (1) denaturation, (2) annealing, and (3) elongation. PCR is a very common procedure in molecular genetic testing and may be used to generate a sufficient quantity of DNA to perform a test (e.g., allele-specific amplification, trinucleotide repeat quantification). Also called polymerase chain reaction.
 
@@ -413,13 +386,8 @@ Glossary
         The observable characteristics in an individual resulting from the expression of genes; the clinical presentation of an individual with a particular genotype.
 
     point mutation
-        A genetic alteration caused by the substitution of a single nucleotide for another nucleotide. Also called point variant.
-
     point variant
-        A genetic alteration caused by the substitution of a single nucleotide for another nucleotide. Also called point mutation.
-
-    polymerase chain reaction
-        A procedure that produces millions of copies of a short segment of DNA through repeated cycles of: (1) denaturation, (2) annealing, and (3) elongation. Polymerase chain reaction is a very common procedure in molecular genetic testing and may be used to generate a sufficient quantity of DNA to perform a test (e.g., allele-specific amplification, trinucleotide repeat quantification). Also called PCR.
+        A genetic alteration caused by the substitution of a single nucleotide for another nucleotide. Also called point variant.
 
     polymorphism
         A common mutation. “Common” is typically defined as an allele frequency of at least 1%. All genes occur in pairs, except when x and y chromosomes are paired in males; thus a polymorphism with an allele frequency of 1% would be found in about 2% of the population, with most carriers having one copy of the polymorphism and one copy of the normal allele.
@@ -445,10 +413,6 @@ Glossary
 
     propositus
         The male individual through whom a family with a genetic disorder is ascertained. In females this is called a proposita.
-
-    Project
-        A GIMS project is a laboratory data object, which contains one or more
-        samples upon which operations are to be completed.
 
     pseudogene
         A DNA sequence that resembles a gene but has been mutated into an inactive form over the course of evolution. It often lacks introns and other essential DNA sequences necessary for function. Though genetically similar to the original functional gene, pseudogenes do not result in functional proteins, although some may have regulatory effects.
@@ -488,9 +452,6 @@ Glossary
     single nucleotide polymorphism
         DNA sequence variations that occur when a single nucleotide (adenine, thymine, cytosine, or guanine) in the genome sequence is altered; usually present in at least 1% of the population. Also called SNP.
 
-    single-stranded conformation polymorphism analysis
-        A laboratory test used to separate single-stranded nucleic acids based on subtle differences in their DNA sequence, often a single base pair, which results in a different secondary structure and a measurable difference in mobiity through a gel. Also called SSCP analysis.
-
     single-stranded conformational polymorphism
         A type of mutation scanning; the identification of abnormally-migrating single-stranded DNA segments on gel electrophoresis. Also called SSCP.
 
@@ -526,12 +487,6 @@ Glossary
 
     SSCP analysis
         A laboratory test used to separate single-stranded nucleic acids based on subtle differences in their DNA sequence, often a single base pair, which results in a different secondary structure and a measurable difference in mobiity through a gel. Also called single-stranded conformation polymorphism analysis.
-
-    sumLOD score
-        The summation of all positive pedigree LOD scores (statistical estimates of whether two genetic loci are physically near enough to each other on a particular chromosome that they are likely to be inherited together) at each point in the genome. Also called summary logarithm of the odds score.
-
-    summary logarithm of the odds score
-        The summation of all positive pedigree LOD scores (statistical estimates of whether two genetic loci are physically near enough to each other on a particular chromosome that they are likely to be inherited together) at each point in the genome. Also called sumLOD score.
 
     surveillance
         Periodic clinical evaluation of an individual who is at increased risk of developing a condition (compared with the general population) aimed at detecting new or recurrent disease. In public health, surveillance may also refer to the systematic collection of information regarding the incidence, prevalence, and mortality related to various medical conditions or health-related events.
