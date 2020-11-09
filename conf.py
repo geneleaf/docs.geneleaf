@@ -99,11 +99,13 @@ html_static_path = ['_static']
 #
 # html_sidebars = {}
 
+#Google Analytics tag:
+# "https://www.googletagmanager.com/gtag/js?id=G-L76TFN96XW",
+
 html_js_files = [
-    "https://www.googletagmanager.com/gtag/js?id=G-L76TFN96XW",
+    ("https://www.googletagmanager.com/gtag/js?id=G-L76TFN96XW", {'async': 'async'}),
     'js/gtag.js',
 ]
-
 
 # -- Options for HTMLHelp output ---------------------------------------------
 
