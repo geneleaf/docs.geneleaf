@@ -100,6 +100,7 @@ html_static_path = ['_static']
 # html_sidebars = {}
 
 html_js_files = [
+    "https://www.googletagmanager.com/gtag/js?id=G-L76TFN96XW",
     'js/gtag.js',
 ]
 
